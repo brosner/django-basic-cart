@@ -1,0 +1,9 @@
+
+=================
+django-basic-cart
+=================
+
+django-basic-cart is a simple application that provides a shopping cart
+interface to objects that implement a Product-like interface.
+
+This project is under heavy backward incompatible development right now.
